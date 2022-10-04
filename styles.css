@@ -1,0 +1,26 @@
+body{
+    font-family: Hero;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.flex1 {
+    border: solid gray; /* for debugging */
+    height: 200px;
+}
+.flex2 {
+    border: solid gray; /* for debugging */
+    height: 200px;
+}
+.flex3 {
+    border: solid gray; /* for debugging */
+    height: 200px;
+}
+.flex4 {
+    border: solid gray; /* for debugging */
+    height: 200px;
+}
+.footer {
+    border: solid gray; /* for debugging */
+    height: 200px;
+}
